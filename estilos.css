@@ -1,7 +1,13 @@
 
+body{
+
+	background-color: black; 
+}
 
 #lienzo{
 	
+	background-color: white;
+
 	border:1px solid black;
 	
 	width: 500px;
