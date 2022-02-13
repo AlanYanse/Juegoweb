@@ -1,10 +1,21 @@
 
+
+
 body{
 
 	background-color: black; 
 }
 
+
+#contenedor{
+
+
+	background-color: blue;
+}
+
+
 #lienzo{
+
 	
 	background-color: white;
 
