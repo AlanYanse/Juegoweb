@@ -1,0 +1,9 @@
+function animationPaDelante(){
+
+}
+
+function animationPatras(){
+
+}
+
+
